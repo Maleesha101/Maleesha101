@@ -10,8 +10,7 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=Maleesha101&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
 </div>
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Maleesha101&theme=algolia&background=0d1117&hide_border=true" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=Maleesha101&theme=react-dark"/>
+ 
 </div>
 
 <h3 align="left">Connect with me:</h3>
