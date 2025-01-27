@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maleesha Indunil</h1>
-<h3 align="center">A passionate Mobile development</h3>
-
-- 🌱 I’m currently learning **Electronics & Computer Science**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Ahmad!;I'm+a+Maleesha+Indunil...;I'm+Flutter+Developer;)](https://git.io/typing-svg)
+- 🌱 I’m currently learning **Electronics & Computer Science at Universiy of Kelaniya**
 
 - 📫 How to reach me **indunil-ec22042@stu.kln.ac.lk**
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
