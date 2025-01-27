@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Maleesha Indunil</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Maleesha+Indunil!;I'm+a+Flutter+developer...;Undergraduate+Student+)](https://git.io/typing-svg)
+---
+<h3> About me: </h3>
 
 - 🌱 I’m currently learning **Electronics & Computer Science at Universiy of Kelaniya**
 
-- 📫 How to reach me **indunil-ec22042@stu.kln.ac.lk**
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maleesha101&layout=compact&show_icon=true&theme=algolia" alt="Maleesha101-langs"/>
