@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="280" viewBox="0 0 400 280" role="img" aria-label="GitHub metrics for kavindus0">
+  <title>GitHub metrics for kavindus0</title>
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#238636;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2ea043;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+
+  <!-- Canvas -->
+  <rect width="400" height="280" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Header card -->
+  <g transform="translate(16,16)">
+    <rect width="368" height="60" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+    <!-- Avatar badge -->
+    <circle cx="30" cy="30" r="22" fill="url(#gradient)" filter="url(#shadow)"/>
+    <text x="30" y="36" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="16" font-weight="700">K</text>
+
+    <!-- Identity -->
+    <text x="66" y="28" fill="#f0f6fc" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="16" font-weight="700">Kavindu Sachinthe</text>
+    <text x="66" y="44" fill="#7d8590" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="12">@kavindus0 • University of Kelaniya</text>
+  </g>
+
+  <!-- Bio and meta -->
+  <g transform="translate(20, ninety)">
+    <text x="0" y="0" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="12">🎬 Just a movie lover from sri lanka</text>
+  </g>
+
+  <!-- Meta lines -->
+  <g transform="translate(20,118)">
+    <text x="0" y="0" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="12">🌐 kavindus0.github.io</text>
+  </g>
+  <g transform="translate(20,136)">
+    <text x="0" y="0" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="12">📍 Sri Lanka</text>
+  </g>
+
+  <!-- Stats grid -->
+  <g transform="translate(20,154)">
+    <!-- Public Repositories -->
+    <rect x="0" y="0" width="85" height="65" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+    <text x="42.5" y="24" text-anchor="middle" fill="#238636" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="20" font-weight="800">75</text>
+    <text x="42.5" y="40" text-anchor="middle" fill="#7d8590" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="10">Public</text>
+    <text x="42.5" y="54" text-anchor="middle" fill="#7d8590" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="10">Repositories</text>
+
+    <!-- Followers -->
+    <rect x="95" y="0" width="85" height="65" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+    <text x="137.5" y="24" text-anchor="middle" fill="#2ea043" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="20" font-weight="800">11</text>
+    <text x="137.5" y="40" text-anchor="middle" fill="#7d8590" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="10">Followers</text>
+
+    <!-- Following -->
+    <rect x="190" y="0" width="85" height="65" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+    <text x="232.5" y="24" text-anchor="middle" fill="#1f6feb" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="20" font-weight="800">1</text>
+    <text x="232.5" y="40" text-anchor="middle" fill="#7d8590" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="10">Following</text>
+
+    <!-- Member since -->
+    <rect x="285" y="0" width="85" height="65" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+    <text x="327.5" y="22" text-anchor="middle" fill="#f85149" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="14" font-weight="800">2023</text>
+    <text x="327.5" y="40" text-anchor="middle" fill="#7d8590" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="10">Member</text>
+    <text x="327.5" y="54" text-anchor="middle" fill="#7d8590" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="10">since</text>
+  </g>
+
+  <!-- Activity (decorative) -->
+  <g transform="translate(20,236)">
+    <text x="0" y="0" fill="#f0f6fc" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="12" font-weight="700">Recent Activity</text>
+    <g transform="translate(0,14)">
+      <circle cx="8" cy="8" r="3" fill="#238636"/>
+      <circle cx="24" cy="8" r="3" fill="#2ea043"/>
+      <circle cx="40" cy="8" r="3" fill="#238636"/>
+      <circle cx="56" cy="8" r="3" fill="#39d353"/>
+      <circle cx="72" cy="8" r="3" fill="#2ea043"/>
+      <circle cx="88" cy="8" r="3" fill="#238636"/>
+      <circle cx="104" cy="8" r="3" fill="#39d353"/>
+      <circle cx="120" cy="8" r="3" fill="#2ea043"/>
+      <circle cx="136" cy="8" r="3" fill="#238636"/>
+      <circle cx="152" cy="8" r="3" fill="#39d353"/>
+    </g>
+  </g>
+
+  <!-- Footer -->
+  <text x="200" y="266" text-anchor="middle" fill="#7d8590" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="10">
+    Generated on 2025-08-09 15:50:58 UTC
+  </text>
+</svg>
