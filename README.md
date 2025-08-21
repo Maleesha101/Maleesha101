@@ -1,27 +1,126 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Maleesha+Indunil!;I'm+a+Flutter+developer...;Undergraduate+Student+)](https://git.io/typing-svg)
----
-<h3> About me: </h3>
-- 🌱 I’m currently learning **Electronics & Computer Science at Universiy of Kelaniya**
 
-## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maleesha101&layout=compact&show_icon=true&theme=algolia" alt="Maleesha101-langs"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=Maleesha101&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
-</div>
-<div align="center">
- 
+  
+[![Profile Views](https://komarev.com/ghpvc/?username=maleesha101&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/maleesha101)
+[![GitHub followers](https://img.shields.io/github/followers/maleesha101?label=Followers&style=social)](https://github.com/maleesha101?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/maleesha101?label=Stars&style=social)](https://github.com/maleesha101)
+
 </div>
 
-<h3 align="left"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
-Languages and Tools: </h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+<br/>
 
-<p>Connect with me on
-<br>	
-<a target="_blank" href="https://www.linkedin.com/in/maleesha-indunil-b19163196"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-&emsp;
-<a target="_blank" href="maleeshaindunil2003@gmail.com"
-><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-&emsp;
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+
+
+
+## 👨‍💻 About Me
+
+- 🎓 Electronics and Computer Science Student
+- 🌐 Full‑Stack: MongoDB, Express.js, React, Node.js, FastAPI, Firebase, Supabase
+- 📱 Flutter for mobile apps
+- 🤖 AI/ML: FastAI, Scikit‑learn, TensorFlow, EDA
+- 🔌 Electronics: Logic circuits and IC projects
+- 🌱 Currently learning
+- 💬 Ask me about AI, Web Dev, Flutter
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00BFFF,100:6A5ACD&height=2&section=footer"/>
+</div>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🚀 Frameworks & Libraries
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### 🗄️ Databases & Cloud
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=fff)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=fff)
+
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=fff)
+
+</div>
+
+
+<!-- GitHub Stats -->
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=maleesha101&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=maleesha101&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0366d6&icon_color=0366d6&text_color=24292e" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maleesha101&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</picture>
+
+<!-- Streak -->
+<picture>
+  <source srcset="https://github-readme-streak-stats.herokuapp.com?user=maleesha101&theme=tokyonight&hide_border=true&background=0D1117&stroke=00BFFF&ring=00BFFF&fire=FF6B6B&currStreakLabel=00BFFF" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-streak-stats.herokuapp.com?user=maleesha101&theme=default&hide_border=true&background=ffffff&stroke=0366d6&ring=0366d6&fire=FF6B6B&currStreakLabel=0366d6" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=maleesha101&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</picture>
+
+<!-- Top Languages -->
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=maleesha101&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=ffffff" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=maleesha101&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0366d6&text_color=24292e" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maleesha101&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</picture>
+
+<!-- Activity Graph -->
+<picture>
+  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=maleesha101&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00BFFF&line=00BFFF&point=FF6B6B" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=maleesha101&theme=github-compact&hide_border=true&bg_color=ffffff&color=0366d6&line=0366d6&point=FF6B6B" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maleesha101&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</picture>
+
+<!-- Contribution Snake (requires workflow) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="./assets/github-snake.svg" />
+  <img alt="Snake animation" src="./assets/github-snake.svg" />
+</picture>
+
+<!-- Trophies -->
+<picture>
+  <source srcset="https://github-profile-trophy.vercel.app/?username=maleesha101&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-profile-trophy.vercel.app/?username=maleesha101&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-profile-trophy.vercel.app/?username=maleesha101&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+</picture>
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A5ACD,100:00BFFF&height=2&section=footer"/>
+</div>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-mm.indunil.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mm.indunil.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maleesha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maleesha-indunil-b19163196)
+
+</div>
 
