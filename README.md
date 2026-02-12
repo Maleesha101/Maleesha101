@@ -88,7 +88,15 @@
 </div>
 
 ---
+<div align="center">
+<!-- Streak -->
+<picture>
+  <source srcset="https://github-readme-streak-stats.herokuapp.com?user=maleesha101&theme=tokyonight&hide_border=true&background=0D1117&stroke=00BFFF&ring=00BFFF&fire=FF6B6B&currStreakLabel=00BFFF" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-streak-stats.herokuapp.com?user=maleesha101&theme=default&hide_border=true&background=ffffff&stroke=0366d6&ring=0366d6&fire=FF6B6B&currStreakLabel=0366d6" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=maleesha101&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</picture>
 
+</div>
 ## 📊 GitHub Analytics
 
 <!-- Activity Graph -->
@@ -106,6 +114,7 @@
 </picture>
 
 ---
+
 
 ## 🎯 2026 Goals
 
