@@ -91,7 +91,19 @@
 
 ## 📊 GitHub Analytics
 
-<!-- Keep your existing stats section unchanged -->
+<!-- Activity Graph -->
+<picture>
+  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=maleesha101&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00BFFF&line=00BFFF&point=FF6B6B" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=maleesha101&theme=github-compact&hide_border=true&bg_color=ffffff&color=0366d6&line=0366d6&point=FF6B6B" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maleesha101&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</picture>
+
+<!-- Contribution Snake (requires workflow) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="./assets/github-snake.svg" />
+  <img alt="Snake animation" src="./assets/github-snake.svg" />
+</picture>
 
 ---
 
