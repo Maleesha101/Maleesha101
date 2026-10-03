@@ -92,11 +92,7 @@
 </picture>
 
 <br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maleesha101&theme=tokyo-night&hide_border=true"/>
-
-<br><br>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=maleesha101&show_icons=true&theme=gotham" alt=stat" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
